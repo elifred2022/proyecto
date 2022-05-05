@@ -9,7 +9,10 @@
 </head>
 <body>
     <header>
-       
+        <div>
+            <img class="cochino" src="imagen/small.jpg" alt="es un cochino">
+            PRUEBAS PARA SUBIR GITHUB MASTER en cabecera mas fix-typo
+        </div>
         <nav>
             <ul class="nav-right-section">
                 <li>
